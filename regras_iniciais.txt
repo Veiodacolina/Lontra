@@ -1,0 +1,8 @@
+1. Criar um software tipo jogo, sendo um rpg online multiplayer.
+2. O jogo sera desenvolvido para plataforma mobile, inicialmente para Android.
+3. O jogo será gratuito e qualquer usuario da plataforma android poderá baixar.
+4. O jogo nao tem classificação etaria, portanto nao deve ter imagens de teor sexual explícito. 
+5. O Eduardo é uma bicha
+6. O jogo tera publicidade de admob afim de monetizar o app.
+7. O jogo deve ser desenvolvido em plataforma 3D (ainda nao decidido).
+
