@@ -6,4 +6,4 @@
 5.1 O Eduardo é uma bicha
 6. O jogo tera publicidade de admob afim de monetizar o app.
 7. O jogo deve ser desenvolvido em plataforma 3D (ainda nao decidido).
-
+8. O usuário poderá utilizar uma conta do google para conectar ao servidor(ou uma conta no facebook).
